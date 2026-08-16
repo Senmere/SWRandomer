@@ -1,0 +1,2 @@
+# SWRandomer
+WPF randomizer application
